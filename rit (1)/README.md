@@ -1,20 +1,48 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# RIT Portal System
 
-# Run and deploy your AI Studio app
+## 📌 Project Description
+RIT Portal System is a full-stack web application that provides a digital platform for managing institutional activities.  
+The portal allows users to interact with dashboards, manage profiles, and view institutional data through a modern web interface.
 
-This contains everything you need to run your app locally.
+The application uses React for the frontend, Express.js for the backend, and SQLite for database management.
 
-View your app in AI Studio: https://ai.studio/apps/39352eba-04ee-4f67-bd0b-a6b0073282ba
+---
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:**  Node.js
+- User authentication using JWT
+- Dashboard interface
+- Profile management
+- Institutional data display
+- Secure password handling using bcrypt
+- Responsive UI using TailwindCSS
+- Data visualization using Recharts
+- Modern UI animations using Framer Motion
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 Technologies Used
+
+### Frontend
+- React
+- Vite
+- TailwindCSS
+- Framer Motion
+- Recharts
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- SQLite (better-sqlite3)
+
+### Other Libraries
+- JSON Web Token (JWT)
+- bcryptjs
+- dotenv
+
+---
+
+## 📂 Project Structure
+
