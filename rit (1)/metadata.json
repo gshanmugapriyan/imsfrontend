@@ -1,0 +1,5 @@
+{
+  "name": "RIT",
+  "description": "A comprehensive role-based management dashboard for educational institutes featuring Admin, Teacher, and Student views.",
+  "requestFramePermissions": ["camera"]
+}
