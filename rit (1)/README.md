@@ -44,5 +44,5 @@ The application uses React for the frontend, Express.js for the backend, and SQL
 
 ---
 
-## 📂 Project Structure
+
 
